@@ -10,7 +10,7 @@
 			url: 'https://github.com/prajnag/Rumour-Detection-and-Veracity-Verification'
 		},
 		{
-			title: 'Cloud Computing - Rideshare',
+			title: 'Cloud Computing - DbaaS - Container Orchestrator',
 			event: `This simulates a typical ride-sharing application. The orchestrator exposes the read and write API endpoints. Out of all the running worker containers, one of them is elected as the master. We have used queues for message exchanges. 
 			We scale up/down the number of containers based on the number of incoming HTTP requests. We use Zookeeper to ensure fault tolerance.
 `,
@@ -50,7 +50,7 @@
 			url: 'https://github.com/prajnag/Stock-Market-Analysis'
 		},
 		{
-			title: 'Emotion Recognition in Speech',
+			title: 'Emotion Detection and Classification in Speech',
 			event: `Used the RAVDESS dataset and a CNN to build a system that detects the emotion in an audio sample. Classifies the speech into 3 emotions - calm, happy, sad & happy. 
 			Used the librosa library in Python, and extracted the MFCC(Mel Frequency Cepstral Coefficient) from the samples. I used the softmax and rmsprop activation functions and a batch size of 32.`,
 

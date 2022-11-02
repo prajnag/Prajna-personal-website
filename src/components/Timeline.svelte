@@ -3,7 +3,7 @@
 		{
 			title: 'Amazon, India',
 			role: 'Programmer Analyst (Software Development Engineer)',
-			date: 'January 2021 - Present ',
+			date: 'January 2021 ',
 			event: ` Working in the Transportation Technology Org, I have worked on migrating multiple software services from legacy platforms onto newly created architectures. I took care of shadow mode implementations as well, making sure there is no impact in Production.
 			I am responsible for onboarding multiple third party carriers onto the Amazon network by designing, planning and finally implementing their specific requirements to integrate with our systems. 
 			We ensured a smooth 'Prime Day' across 2 years with no downtime.
@@ -53,7 +53,7 @@
 						<h2 class="text-xl mb-1">{event.title}</h2>
 						<p class="text-sm">{event.role}</p>
 					</div>
-					<h4>{event.date}</h4>
+					<h2>{event.date}</h2>
 				</div>
 				<div class="">
 					<p class="text-md text-justify">
