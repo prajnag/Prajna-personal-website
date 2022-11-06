@@ -26,7 +26,7 @@
 		},
 		{
 			title: 'Lie Detection System - Eagle Strategy',
-			event: `This has 3 components - camera for facial features, recording device for voice and IOT devices for body movements. 
+			event: `This has 3 parts, camera for facial features, recording device for voice and IOT devices for body movements. 
 			The truth value of every line in a conversation is captured. Based on this, we trained our deep neural network to classify the given data as a truth or lie. I used the Eagle Strategy in place of the generic back propagation algorithm used in a neural network.`,
 			url: 'https://github.com/prajnag/Lie-Detection-System'
 		},
