@@ -35,7 +35,7 @@
 	class="fixed drop-shadow-lg md:w-[25vw] w-full h-screen top-0 bg-[#F4BFBF] flex flex-col items-center justify-start p-8"
 	style="z-index:1000"
 >
-	<h1 class="font-light mt-8 text-[#fff] tracking-tighter" style="font-size:72px">Prajna Girish</h1>
+	<h1 class="font-light mt-8 text-[#fff] tracking-tighter" style="font-size:60px">Prajna Girish</h1>
 	<div class="mb-4 flex justify-between w-[50%]">
 		<a href="https://github.com/prajnag"><i class="bx bxl-github text-3xl text-[#85586F]" /></a>
 		<a href="https://www.linkedin.com/in/prajna-girish-5735971b0/"><i class="bx bxl-linkedin text-3xl text-[#85586F]" /></a>
