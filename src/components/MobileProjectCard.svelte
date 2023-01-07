@@ -18,7 +18,7 @@
             </div>
         </div>
         <div class="hidden">
-            <p class="text-md">
+            <p class="text-md text-justify">
                 {event}
             </p>
         </div>

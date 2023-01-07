@@ -20,7 +20,7 @@
             </div>
         </div>
         <div class="">
-            <p class="text-md " style="font-size:14px;">
+            <p class="text-md text-justify" style="font-size:14px;">
                 {event}
             </p>
         </div>
