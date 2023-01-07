@@ -56,7 +56,7 @@
 					<h2>{event.date}</h2>
 				</div>
 				<div class="">
-					<p class="text-md text-justify">
+					<p class="text-md">
 						{event.event}
 					</p>
 				</div>
